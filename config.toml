@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "car.kikia.co"
+baseURL = "cars.kikia.co"
 title = "Bigspring Hugo"
 theme = "bigspring"
 languageName = "En"
