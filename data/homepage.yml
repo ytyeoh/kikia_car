@@ -1,25 +1,25 @@
 ####################### Banner #########################
 banner:
-  title : "Let us solve your Car Problem <br> Car Rental"
+  title : "Your Liable Car Hire Rental Service <br> Car Hire Rental"
   image : "images/banner-art.svg"
-  content : "Looking for car with best price in market?"
+  content : "Looking for Car Hire with Best Price in Town?"
   button:
     enable : true
-    label : "Contact With Us"
+    label : "Contact Us"
     link : "contact"
 
 ##################### Feature ##########################
 feature:
   enable : true
-  title : "Something You Need To Know"
+  title : "Our Car avaiable"
   feature_item:
     # feature item loop
-    - name : "Clean Code"
+    - name : "Clean & Safety"
       icon : "ti-pulse"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
-    - name : "Object Oriented"
+    - name : "Professional Service"
       icon : "ti-package"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
@@ -39,7 +39,7 @@ feature:
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
-    - name : "Cloud Support"
+    - name : "Easy Booking"
       icon : "ti-cloud-up"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
