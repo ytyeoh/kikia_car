@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mpv on Bigspring Hugo</title>
+    <link>https://cars.kikia.co/mpv/</link>
+    <description>Recent content in mpv on Bigspring Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Apr 2020 10:07:21 +0600</lastBuildDate>
+    
+	<atom:link href="https://cars.kikia.co/mpv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>VallFire </title>
+      <link>https://cars.kikia.co/mpv/1/</link>
+      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
+      
+      <guid>https://cars.kikia.co/mpv/1/</guid>
+      <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,20 +1,23 @@
 ---
-title: "Adversus is a web-based dialer and practical CRM solution"
+title: "VellFire "
 date: 2020-04-18T10:07:21+06:00
 # post image
-image: "images/blog/post-1.jpg"
+image: "images/luxury/Toyota Vellfire.jpeg"
 # post type (regular/featured)
-type: "featured"
+type: "regular"
 # meta description
 description: "This is meta description"
 # post draft
 draft: false
+summary: As low as RM50/day <br> <b>2 seater</b> <br> low miles 
+
+seat: "4"
 ---
 
 
 #### Heading example
 
-Here is example of hedings. You can use this heading by following markdownify rules. For example: use `#` for heading 1 and use `######` for heading 6.
+Price RM 200
 
 # Heading 1 
 <br>

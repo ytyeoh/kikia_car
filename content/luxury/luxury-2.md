@@ -1,8 +1,8 @@
 ---
-title: "Adversus is a web-based dialer and practical CRM solution"
+title: "BMW"
 date: 2020-04-18T10:07:21+06:00
 # post image
-image: "images/blog/post-5.jpg"
+image: "images/blog/post-2.jpg"
 # post type (regular/featured)
 type: "regular"
 # meta description
@@ -14,10 +14,15 @@ draft: false
 
 #### Heading example
 
-Here is example of hedings. You can use this heading by following markdownify rules. For example: use `#` for heading 1 and use `######` for heading 6.
+Here is example of hedings. You can use this heading by following markdownify rules. For example: use `#` for heading 1 and use `######` for aaaheading 6.
 
-# Heading 1 
+
+
+# Heading 1  aa
 <br>
+
+
+![image](../../images/blog/post-6.jpg)
 
 ## Heading 2 
 

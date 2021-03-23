@@ -1,0 +1,40 @@
+{{ define "main" }}
+
+<!-- checking blog -->
+{{ if or (or (eq .Section "post") (eq .Section "luxury")) (or (eq .Section "mpv") (eq .Section "sedan")) (or (eq .Section "categories") (eq .Section "tags") )}}
+
+
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 mx-auto">
+
+        {{ .Params.seat }}<i class="ti-user mb-3"></i>
+        
+        <img src="{{ .Params.image | absURL }}" alt="{{ .Title }}" class="img-fluid w-100 rounded mb-4">
+        <h2 class="mb-4">{{ .Title }}</h2>
+
+<a href="/" class="btn btn-success float-right">WhatsApp</a>
+        <div class="content">{{.Content}}</div>
+
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- regular page -->
+{{ else }}
+{{ partial "page-header.html" . }}
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 mx-auto">
+        <div class="content">{{ .Content }}</div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+
+
+{{ end }}
