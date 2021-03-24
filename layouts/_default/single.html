@@ -14,7 +14,7 @@
         <img src="{{ .Params.image | absURL }}" alt="{{ .Title }}" class="img-fluid w-100 rounded mb-4">
         <h2 class="mb-4">{{ .Title }}</h2>
 
-<a href="/" class="btn btn-success float-right">WhatsApp</a>
+<a href="https://api.whatsapp.com/send?phone=60125349374&text=I%20like%20to%20book%20{{ .Title }}%20at%20{{ .Permalink | absURL }}%20at%20RM{{ .Params.price}}" class="btn btn-success float-right">WhatsApp</a>
         <div class="content">{{.Content}}</div>
 
       </div>

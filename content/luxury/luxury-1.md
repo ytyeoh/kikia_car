@@ -12,6 +12,8 @@ draft: false
 summary: As low as RM50/day <br> <b>2 seater</b> <br> low miles 
 
 seat: "4"
+
+price: "50"
 ---
 
 
